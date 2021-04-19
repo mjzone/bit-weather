@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { Button } from "@weather/elements.button";
-import { Textbox } from "@weather/elements.textbox";
+import { Button } from "@happyinc/test.elements.button";
+import { Textbox } from "@happyinc/test.elements.button";
 
 export const Weather = ({ children, ...rest }) => {
   const [location, setLocation] = useState("");

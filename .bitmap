@@ -2,14 +2,14 @@
 
 {
     "elements/button": {
-        "scope": "",
-        "version": "",
+        "scope": "happyinc.test",
+        "version": "1.0.0",
         "mainFile": "index.js",
         "rootDir": "components/button"
     },
     "elements/textbox": {
-        "scope": "",
-        "version": "",
+        "scope": "happyinc.test",
+        "version": "1.0.0",
         "mainFile": "index.js",
         "rootDir": "components/textbox"
     },

@@ -22,7 +22,7 @@
     /**
      * default scope for all components in workspace.
      **/
-    "defaultScope": "weather"
+    "defaultScope": "happyinc.test"
   },
   /**
    * main configuration for component dependency resolution.
